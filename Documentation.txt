@@ -1,0 +1,7 @@
+"MESSENGER"
+
+So basically we are making a messenger, the main purpose of this thing is that how we can send our messages to our colleagues,friendsfamily and to anyone.so first of all we are going to learn how to send and receive simple messages like text messages through our messnger and then, we are going to discover how to send voice messages and videos clips on low quality of data and then we are going to explore how to send images,documents and live locations. 
+We are also going to make group making option in our messenger app where we can do group chats and we will also make emojis and gifs for the difining of moments at particular time. 
+Video calling,this will be the best thing in our messenger which will also be dicovered;so,these all will be the best features in our messenger app. 
+In messenger app we are going to connect to the different people through their accounts and chat them anytime without any distraction. 
+

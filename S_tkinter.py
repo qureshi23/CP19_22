@@ -6,10 +6,10 @@ from tkinter import *
 
 #############functions
 def f1():
-    print("button click 1")
+    print("button 1")
     mb.showinfo("My Text","My Message")
 def f2():
-    print("button click 2")
+    print("button 2")
     mb.showinfo("My Text",tv1.get())
 
 ##########main code

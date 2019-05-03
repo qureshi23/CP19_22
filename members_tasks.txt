@@ -1,0 +1,9 @@
+Subhan working on main messenger and GUI
+
+Yasir working on Socket library
+
+Inam working on sys library
+
+Usama working on time library
+
+Kashif working on tkinter library (GUI)
